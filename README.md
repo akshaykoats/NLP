@@ -1,2 +1,2 @@
 # NLP
-Basic knowledge
+Basics
